@@ -1,0 +1,7 @@
+定义：
+R1 - R4为参数输入
+R5为返回地址
+R6为栈地址
+add 1-32 屏幕
+JMP Main:
+DrawPoint 1;
