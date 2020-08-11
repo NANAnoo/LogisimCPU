@@ -2,7 +2,8 @@
 右键rom 选择loadimage，从镜像文件夹中选择一个文件，点击on/off运行(确保打开时钟模拟)
 - fibo, 计算Fibonacci数列，结果在内存中
 - tri，绘制三角形
-- screentest，测试屏幕
+- screentest1，屏幕测试
+- screentest2，屏幕测试2 
 
 ## 文件索引
 - image/     -rom镜像
@@ -11,3 +12,4 @@
 - CPU.circ -CPU 本体，使用logisim打开
 - README.md
 
+## 编译器不见惹QAQ，有机会补一下吧
