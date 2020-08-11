@@ -4,6 +4,7 @@
 - tri，绘制三角形
 - screentest1，屏幕测试
 - screentest2，屏幕测试2 
+- square，绘制正方形
 
 ## 文件索引
 - image/     -rom镜像
